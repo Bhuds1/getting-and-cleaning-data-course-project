@@ -1,5 +1,5 @@
 
-Tidy DataSet
+Tidy Data Set 
 
 Tidy data contains 180 rows and 82 columns. Each row has averaged variables for each subject and each activity.
 
@@ -12,7 +12,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing FrequencyBodyAccelerometer, FrequencyBodyAccelerometerJerk, FrequencyBodyGyroscope, FrequencyBodyAccelerometerJerkMagnitude, FrequencyBodyGyroscopeMagnitude, FrequencyBodyGyroscopeJerkMagnitudeMean. 
 
 
-These signals were used to estimate variables of the feature vector for each pattern:
+These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 TimeBodyAccelerometer-XYZ
