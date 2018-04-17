@@ -1,5 +1,5 @@
 
-Tidy Data Set 
+#Tidy Data Set# 
 
 Tidy data contains 180 rows and 82 columns. Each row has averaged variables for each subject and each activity.
 
